@@ -1,6 +1,10 @@
-# Slack Typing - Always Be Typin'
+Slack Typing - Always Be Typin'
+===
 
 Clone of [slacktyping](https://github.com/will/slacktyping) in Rust.
+
+[![Build Status](https://travis-ci.org/neosilky/slack-typing.svg?branch=master)](https://travis-ci.org/neosilky/slack-typing)
+[![MIT licensed](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE)
 
 ## Usage
 
